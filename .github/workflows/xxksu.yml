@@ -1,4 +1,4 @@
-name: pearl-ksu
+name: pearl-xxksu
 
 on:
   workflow_dispatch:
